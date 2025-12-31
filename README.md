@@ -9,9 +9,6 @@ This project was built as part of a frontend assignment to demonstrate data mode
 ## Live Demo
 PASTE YOUR VERCEL / NETLIFY LINK HERE
 
-## GitHub Repository
-PASTE YOUR GITHUB REPO LINK HERE
-
 ---
 
 ## Features
