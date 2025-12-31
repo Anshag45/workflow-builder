@@ -6,11 +6,6 @@ This project was built as part of a frontend assignment to demonstrate data mode
 
 ---
 
-## Live Demo
-PASTE YOUR VERCEL / NETLIFY LINK HERE
-
----
-
 ## Features
 
 ### Core Functionality
